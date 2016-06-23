@@ -1,2 +1,4 @@
 # hello-world
-first project demo
+Jim Mosley 
+Software Engineer, Manager, and Project Manager
+
